@@ -1,0 +1,15 @@
+FLASHITO PARA ANDROID
+=====================
+
+Compatible con Android 7.0 o posterior.
+
+INSTALAR
+1. Tocá Flashito.apk.
+2. Si el sistema lo solicita, permití a tu app de archivos instalar aplicaciones desconocidas.
+3. Confirmá la instalación y abrí Flashito.
+4. Escribí tu endpoint, API key y modelo. Tocá "Probar conexión" y después "Guardar".
+
+USAR
+Subrayá la pregunta y sus opciones en Chrome u otra aplicación. En el menú de selección tocá "Flashito".
+
+Android exige que la instalación sea confirmada por la persona. Ningún ZIP puede instalar un APK automáticamente.
