@@ -1,0 +1,18 @@
+{
+  "name": "Flashito",
+  "device": "pixel_5",
+  "androidApi": 34,
+  "systemImage": "system-images;android-34;default;x86_64",
+  "architecture": "x86_64",
+  "cpuCores": 4,
+  "ramMb": 1536,
+  "storageBytes": 6442450944,
+  "display": {
+    "width": 1080,
+    "height": 2340,
+    "density": 440
+  },
+  "playStore": false,
+  "quickBoot": true
+}
+

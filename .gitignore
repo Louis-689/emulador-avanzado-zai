@@ -1,10 +1,12 @@
-.gradle/
-.kotlin/
-.mimosa/
-local.properties
-app/build/
 *.apk
-*.aab
-*.jks
+*.log
+local.properties
+.idea/
+.vscode/
+avd-data/
+snapshots/
+*.img
+*.qcow2
+*.key
 *.keystore
 
